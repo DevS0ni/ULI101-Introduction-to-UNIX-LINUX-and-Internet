@@ -1,6 +1,7 @@
 # ULI101 - Introduction to UNIX/LINUX & Internet
 
 This repository contains all of my code programs and work which I performed in the above mentioned course.
+* Assignments (#3)
 
 ----------------------------------------
 Course Description
