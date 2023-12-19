@@ -118,7 +118,7 @@ After successful completion of this course, it helped me to...
 
      > Live Linux Distributions
         ~ Purpose
-        ~ Run Knoppix from your home computer (as a Virtual Machine)
+        ~ Run Knoppix from your home computer (as a Virtual Machine)
  ```
 ----------------------------------------
 Technologies & Tools Used for the Course
