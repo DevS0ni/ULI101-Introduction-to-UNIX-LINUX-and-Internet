@@ -87,7 +87,7 @@ After successful completion of this course, it helped me to...
 
      > Regular Expressions
         ~ Definition / Purpose
-        ~ Regular Expressions vs. Filename Expansion
+        ~ Regular Expressions vs. Filename Expansion
 
      > Simple and Complex Regular Expressions
         ~ Simple (Literal) Regular expressions using grep
@@ -109,7 +109,7 @@ After successful completion of this course, it helped me to...
 
      > Start-up Files
         ~ Definition / Purpose
-        ~ /etc/profile , ~/.bash_profile , ~/.bashrc , ~/.bash_logout / Demonstration
+        ~ /etc/profile , ~/.bash_profile , ~/.bashrc , ~/.bash_logout / Demonstration
         ~ Further Studies in Linux
 
      > Installing Linux
