@@ -131,6 +131,7 @@ Technologies & Tools Used for the Course
 - Matrix Server (a cluster of Linux CentOS servers.)
 - SSH Client (Secure Shell Script - Microsoft Windows)
 - PuTTY (Free SSH & telnet Client - Microsoft Windows)
+- Kali Linux (an Advanced Penetration Testing Linux distribution)
 ```
 ----------------------------------------
 Academic Honesty/ Integrity Statement
