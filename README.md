@@ -32,6 +32,7 @@ After successful completion of this course, it helped me to...
            - From Seneca Lab Workstation
            - From Laptop or Home Computer (Windows, Mac OSX, Linux)
         ~ How to Logout of your Matrix Linux Account
+
      > Issuing Linux commands and utilities
 
      > Manipulating data stored in regular text files
@@ -46,6 +47,7 @@ After successful completion of this course, it helped me to...
         ~ Purpose of Directories
         ~ Directory Pathnames / Tree Diagrams
         ~ Filename Rules
+
      > Managing Directories
 
      > File Pathname Types
@@ -81,7 +83,7 @@ After successful completion of this course, it helped me to...
      > Mail Utility:
         ~ Purpose / Using the mail utility
         ~ Sending Messages / File Attachments
-        ~ Demonstration
+        ~ Demonstration
 
      > Regular Expressions
         ~ Definition / Purpose
@@ -90,7 +92,7 @@ After successful completion of this course, it helped me to...
      > Simple and Complex Regular Expressions
         ~ Simple (Literal) Regular expressions using grep
         ~ Complex Regular Expressions using grep
-        ~ Demonstration
+        ~ Demonstration
 
      > The sed Utility
         ~ Definition / Purpose 
@@ -103,7 +105,7 @@ After successful completion of this course, it helped me to...
         ~ for loop (continued)
         ~ while loop
         ~ exit and break statements / Error Checking / export Command
-        ~ Demonstration
+        ~ Demonstration
 
      > Start-up Files
         ~ Definition / Purpose
@@ -112,7 +114,7 @@ After successful completion of this course, it helped me to...
 
      > Installing Linux
         ~ Purpose / Linux Distributions
-        ~ Linux Installation Methods
+        ~ Linux Installation Methods
 
      > Live Linux Distributions
         ~ Purpose
