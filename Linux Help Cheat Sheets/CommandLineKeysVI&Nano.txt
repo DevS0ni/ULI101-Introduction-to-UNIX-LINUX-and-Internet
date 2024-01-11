@@ -1,0 +1,9 @@
+https://dev.to/zinox9/command-line-cheat-sheet-with-text-editors-vim-nano-1l69
+
+
+
+
+--------------------------------------------------------------------------------------------------------------
+NOTE: The environment variable USER contains the current user's login name.
+The $ character immediately followed by the environment variable name causes it to
+expand to the value that the variable contains.
