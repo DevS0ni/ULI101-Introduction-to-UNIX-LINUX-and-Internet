@@ -21,6 +21,16 @@ After successful completion of this course, it helped me to...
   * Describe the directory layout of a typical Linux system in order to maintain and secure Unix
     directories and files. 5. Use Linux pipes and file redirection to manipulate data.
   * Form simple regular expressions to define patterns.
+  * Communicate clearly, concisely and correctly in the written, spoken and visual form
+    that fulfils the purpose and meets the needs of the audience.
+  * Respond to written, spoken, or visual messages in a manner that ensures effective communication.
+  * Execute mathematical operations accurately.
+  * Apply a systematic approach to solve problems.
+  * Use a variety of thinking skills to anticipate and solve problems.
+  * Locate, select, organize, and document information using appropriate technology and information systems.
+  * Analyze, evaluate, and apply relevant information from a variety of sources.
+  * Manage the use of time and other resources to complete projects.
+  * Take responsibility for one's own actions, decisions, and consequences.
   * Gained a handsome knowledge on all of the topics of UNIX/ LINUX & the Internet namely-
      > Background & Features of UNIX/ LINUX OS
         ~ Purpose of an OS / History of Unix & Linux OS
